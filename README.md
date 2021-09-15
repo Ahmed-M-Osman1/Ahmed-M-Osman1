@@ -28,13 +28,13 @@
 
 <h3>🛠 My profile Statistics </h3>
 
-![Ahmed Mohamed's github](https://github-readme-stats.vercel.app/api?username=ahmedmohamed24&show_icons=true&hide_border=true)
+![Ahmed Mohamed's github](https://github-readme-stats.vercel.app/api?username=akiid777&show_icons=true&hide_border=true)
 
 <h3> 💬 Connect with via ... </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmedmohamed24" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto: ahmedmohamed24.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
-<a href="https://www.facebook.com/ahmedmohamed24.dev" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/ahmed-mosman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto: dr.ahmed.mamdouh.93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
+<a href="https://www.facebook.com/ahmed.osman93" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 
