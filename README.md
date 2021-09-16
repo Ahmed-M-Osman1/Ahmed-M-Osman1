@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-<h2> Hey there! I'm Ahmed.</h2>
+<h2> Hey there! I'm Ahmed M.Osman.</h2>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+- 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 💼 &nbsp; Working as a Front end web developer.
+
 
 ### - Languages and Technologies...
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/akiid777/)](https://github.com/akiid777/)
@@ -27,12 +35,6 @@
 <a href="https://www.facebook.com/ahmed.osman93" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-- 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 💼 &nbsp; Working as a Front end web developer.
 
 
 ## Show ❤️ By Starring My Repos!
