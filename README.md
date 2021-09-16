@@ -13,12 +13,12 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/akiid777/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/akiid777/)](https://github.com/akiid777/)
 
-[![REACT](https://img.shields.io/badge/-REACT-black?style=flat-square&logo=react&link=https://github.com/akiid777/)](https://github.com/akiid777/)
+[![REACT](https://img.shields.io/badge/-REACT-1572B6?style=flat-square&logo=react&link=https://github.com/akiid777/)](https://github.com/akiid777/)
 
 
 <h3>🛠 My profile Statistics </h3>
 
-![Ahmed Mohamed's github](https://github-readme-stats.vercel.app/api?username=akiid777&show_icons=true&hide_border=true)
+![Ahmed Osman's github](https://github-readme-stats.vercel.app/api?username=akiid777&show_icons=true&hide_border=true)
 
 <h3> 💬 Connect with via ... </h3>
 <p align="center">
