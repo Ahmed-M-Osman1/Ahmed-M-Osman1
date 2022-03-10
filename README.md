@@ -23,6 +23,7 @@
 
 [![REACT](https://img.shields.io/badge/-REACT-1572B6?style=flat-square&logo=react&link=https://github.com/akiid777/)](https://github.com/akiid777/)
 [![Node.js](https://img.shields.io/badge/-Node.js-495e35?style=flat-square&logo=node.js&link=https://github.com/akiid777/)](https://github.com/akiid777/)
+[![REACT Native](https://img.shields.io/badge/-REACT-Native1572B6?style=flat-square&logo=react&link=https://github.com/akiid777/)](https://github.com/akiid777/)
 
 <h3>🛠 My profile Statistics </h3>
 
